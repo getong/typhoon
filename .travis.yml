@@ -4,8 +4,8 @@ script:
    - make && make test
 language: erlang
 otp_release:
-   - 18.3
-   - 19.3
+   - 21.2
    - 20.3
-   - 21.1
+   - 19.3
+   - 18.3
 
